@@ -37,5 +37,5 @@ I hope to be able to actually have this be implemented in peoples lives and be a
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-Its not really for me to learn how to do more things mroe or me tring to master things I already learned. For example the file reading process is still difficult for me so I will work on that aspect of things in order to make this a successful project.
+Its not really for me to learn how to do more things mroe or me tring to master things I already learned. For example the file reading process is still difficult for me so I will work on that aspect of things in order to make this a successful project. But I will need to learn a little more about data collection and the different aspects of that.
 
